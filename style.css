@@ -34,10 +34,10 @@ body {
   }
   
   input{
-    background-color: rgb(22, 240, 247); 
+    background-color: rgb(206, 46, 46); 
   }
   ::placeholder{
-    color: rgb(211, 25, 0);
+    color: rgb(0, 0, 0);
   }
   input {
     padding: 15px 10px;
@@ -46,7 +46,7 @@ body {
   }
   
   .li-container {
-    background-color: rgb(190, 204, 204);
+    background-color: rgb(223, 97, 97);
     width: 100%;
     color: rgb(252, 91, 17);
     margin-top: 20px;
