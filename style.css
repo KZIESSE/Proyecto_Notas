@@ -86,7 +86,7 @@ body {
   
   .btn-delete:hover {
     cursor: pointer;
-    background-color: lightseagreen;
+    background-color: brown;
   }
   
   .btn-add {
@@ -94,14 +94,14 @@ body {
     border: none;
     color: white;
     font-family: fantasy;
-    background-color: teal;
+    background-color: red;
     font-size: 1.4rem;
     outline: none;
   }
   
   .btn-add:hover {
     cursor: pointer;
-    background-color: darkcyan;
+    background-color: orange;
   }
   
   .empty {
